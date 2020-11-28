@@ -1,4 +1,4 @@
-# Aprendizaje SUpervisado con Python
+# Aprendizaje Supervisado con Python
 ## Set de entrenamiento y test
 
 ```python
